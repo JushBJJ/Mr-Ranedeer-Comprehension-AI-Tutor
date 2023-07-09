@@ -8,6 +8,8 @@ Often people read excerpts of text but lack to comprehend them in a meaningful w
 
 # Quick Start
 
+* MAY NOT WORK ON ALL PDF Files, please also specify which is the first page that contains text.
+
 Show Text `On`: [https://chat.openai.com/share/763f6b44-4001-4ad4-946b-09038a5d4b1c](https://chat.openai.com/share/763f6b44-4001-4ad4-946b-09038a5d4b1c)
 
 Show Text `Off`: [https://chat.openai.com/share/7e9fde3c-bc12-49ff-8d17-3adb450b9299](https://chat.openai.com/share/7e9fde3c-bc12-49ff-8d17-3adb450b9299)
